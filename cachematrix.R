@@ -32,14 +32,3 @@ cacheSolve <- function(x, ...) {
 }
 
 
-kalabeez <- function()
-{
-  m <- NULL
-  beez1 <- function ()
-  {
-    m <- 1
-    print(m)
-  }
-  beez1()
-  print(m)
-}
